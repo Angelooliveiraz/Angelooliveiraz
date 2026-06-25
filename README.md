@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Ângelo Oliveira! 👋
 
-<!--
-**Angelooliveiraz/Angelooliveiraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou aprofundando meus conhecimentos em **Java**, com foco no desenvolvimento de software e construção de projetos práticos.
 
-Here are some ideas to get you started:
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, demonstrando minha evolução técnica e boas práticas de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- Java
+- Spring Boot
+- SQL
+- Git
+- Github
+  
+
+## 📂 Projetos em destaque
+
+- 🍖 Calculadora de Churrasco em Java
+- 🌐 Portfólio Pessoal
+
+Novos projetos serão adicionados conforme continuo evoluindo e explorando novas tecnologias.
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/em/angelo-oliveiraz
